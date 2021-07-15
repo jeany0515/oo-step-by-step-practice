@@ -1,4 +1,4 @@
-//package practice09;
+//package practice08;
 //
 //import org.junit.Before;
 //import org.junit.Test;
@@ -8,7 +8,7 @@
 //
 //import static org.fest.assertions.api.Assertions.assertThat;
 //
-//public class Practice09Test {
+//public class Practice08Test {
 //    private Klass klass;
 //    private ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 //

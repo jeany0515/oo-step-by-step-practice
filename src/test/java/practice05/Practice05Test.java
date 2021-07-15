@@ -1,10 +1,10 @@
-//package practice06;
+//package practice05;
 //
 //import org.junit.Test;
 //
 //import static org.fest.assertions.api.Assertions.assertThat;
 //
-//public class Practice06Test {
+//public class Practice05Test {
 //    @Test
 //    public void should_person_have_name_and_age() throws Exception {
 //        Person person = new Person("Tom", 21);
